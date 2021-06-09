@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Max Kowalski</h1>
-<h3 align="center">Unemployed Australian Bum</h3>
+<h1 align="left">Hi 👋, I'm Max Kowalski</h1>
+<h3 align="left">Unemployed Australian Bum</h3>
 
 - 🔭 I’m currently working on **learning**
 
@@ -20,10 +20,17 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/MaxKowalski"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MaxKowalski" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximuskowalski&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="maximuskowalski" /></p>
+<br /> 
+<br /> 
+<br /> 
+<br /> 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=maximuskowalski&show_icons=true&locale=en&theme=radical" alt="maximuskowalski" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximuskowalski&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="maximuskowalski" /><br></p>
+<br /> 
+<br /> <br /> 
+<br /> 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=maximuskowalski&show_icons=true&locale=en&theme=radical" alt="maximuskowalski" /><br></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maximuskowalski&theme=radical" alt="maximuskowalski" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maximuskowalski&theme=radical" alt="maximuskowalski" /><br></p>
 
-[![Kowalski's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximuskowalski)](https://github.com/maximuskowalski/github-readme-stats)
+
