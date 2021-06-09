@@ -22,8 +22,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximuskowalski&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="maximuskowalski" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximuskowalski&show_icons=true&locale=en" alt="maximuskowalski" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=maximuskowalski&show_icons=true&locale=en&theme=radical" alt="maximuskowalski" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximuskowalski&" alt="maximuskowalski" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maximuskowalski&theme=radical" alt="maximuskowalski" /></p>
 
 [![Kowalski's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximuskowalski)](https://github.com/maximuskowalski/github-readme-stats)
