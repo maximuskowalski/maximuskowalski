@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Max Kowalski</h1>
-<h3 align="left">Unemployed Australian Bum</h3>
+<h3 align="left">Software Engineer 100 Devs Agency</h3>
 
-- 🔭 I’m currently working on **learning**
+- 🔭 I’m currently working on **JavaScript, HTML, CSS, OOP**
 
 - 🌱 I’m currently learning **Bash, Python, Ansible**
 
